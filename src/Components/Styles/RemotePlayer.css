@@ -1,0 +1,7 @@
+.main-space {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius: 10px;
+	height: calc(10vh - 15px);
+}
